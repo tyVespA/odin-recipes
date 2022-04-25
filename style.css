@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(37, 37, 37);
+    color: rgb(253, 245, 255);
+}
+
+body {
+    text-align: center;
+}
+
+ul, ol, h2, p{
+    text-align: left;
+}
+
+h1 {
+    color: rgb(255, 198, 233);
+}
+
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: rgb(255, 182, 233);
+}
+
+a:hover {
+    color: rgb(255, 154, 255);
+}
